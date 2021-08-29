@@ -1,15 +1,4 @@
-# try
-lalala
-```lalala```
-***sfds***
-## try2
-lalala
-```lalala```
-***sfds***
-### try3
-lalala
-```lalala```
-***sfds***
-## try end
-
-# try end
+# Purdue-CS193/homework-0-deng232
+-easy
+-quit easy
+-some what easy
